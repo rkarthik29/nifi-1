@@ -25,8 +25,7 @@
                     "transit_uri": "file://cluster2/data/outgoing/S3/abc-97b.zip",
                     "object_type": "Provenance Record",
                     "version": "ASVsZu_vShwtGCJpGOObmuSqUJRUC3L_",
-                    "file_size": "3645525",
-                    "tags":  ["arrays", "are", "supported", "too"]
+                    "file_size": "3645525"
                 },
                 "sort": [
                     1469198828102
@@ -46,13 +45,12 @@
 			        "transit_uri": "file://cluster2/data/outgoing/S3/abc-a78.zip",
 			        "object_type": "Provenance Record",
 			        "version": "SjJkrwnv6edIRqJChEYzrE7PeT1hzioz",
-                    "file_size": "4480294",
-                    "tags":  ["arrays", "are", "supported", "too"]
+			        "file_size": "4480294"
 			    },
 			    "sort": [
 			        1469198828101
 			    ]
-
+			
 			}
          ]
      }
